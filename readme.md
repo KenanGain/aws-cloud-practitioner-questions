@@ -239,7 +239,7 @@ Below are 10 example questions formatted in Markdown. Each question includes mul
 
 ---
 
-**Feel free to use these questions as a quick self-assessment or in your study group. Good luck on your AWS journey! 🚀**  
+**Feel free to use these questions as a quick self-assessment.  🚀**  
 
 ---
 
