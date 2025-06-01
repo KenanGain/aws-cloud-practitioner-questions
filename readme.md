@@ -9,6 +9,7 @@
 
 - **Test 1**: [AWS CCP–Style Exam, Part 1](https://g.co/gemini/share/625965c458d8)  
 - **Test 2**: [AWS CCP–Style Exam, Part 2](https://g.co/gemini/share/4def46ac24ef)
+- **Test 3**: [AWS CCP–Style Exam, Part 3](https://g.co/gemini/share/c491c9e0f81a)
 
 ---
 
