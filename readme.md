@@ -241,7 +241,59 @@ Below are 10 example questions formatted in Markdown. Each question includes mul
 
 **Feel free to use these questions as a quick self-assessment.  🚀**  
 
+
 ---
+
+## 😂 More Funny & Relatable AWS Study GIFs
+
+Below are a few extra GIFs to lighten the mood while you’re preparing for the AWS Certified Cloud Practitioner exam. Insert these wherever you need a quick laugh!
+
+---
+
+### “When you finally understand the Shared Responsibility Model”  
+![Eureka Moment GIF](https://media.giphy.com/media/26gsjCZpPolPr3sBy/giphy.gif)  
+*“Ohhhh, so that’s who patches what!”*
+
+---
+
+### “Me trying to memorize all the AWS service acronyms”  
+![Brain Overload GIF](https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif)  
+*“EC2, S3, RDS… wait, what was I just saying?”*
+
+---
+
+### “When you nail a question about IAM permissions”  
+![Mic Drop GIF](https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif)  
+*“Checkmate, Cloud Security!”*
+
+---
+
+### “Realizing you’re on question 50 and still have 15 minutes left”  
+![Panic and Run GIF](https://media.giphy.com/media/3o7TKxUfucQDljg4Ry/giphy.gif)  
+*“Time to speed through these like a ninja!”*
+
+---
+
+### “That feeling when you click ‘Submit’ on the practice test”  
+![Happy Dance GIF](https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif)  
+*“I survived another AWS quiz!”*
+
+---
+
+### “When someone asks if you’ve read all the AWS whitepapers…”  
+![Eye Roll GIF](https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif)  
+*“Bro, I’m still on slide 2 of the ‘Well-Architected Framework.’”*
+
+---
+
+### “The moment you realize you left ‘Billing & Pricing’ until last”  
+![Facepalm GIF](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)  
+*“Why did I do this to myself?”*
+
+---
+
+Feel free to copy – paste – laugh – repeat 😜  
+
 
 <p align="center">
   <strong>Good luck on your AWS journey! 🌟</strong>
