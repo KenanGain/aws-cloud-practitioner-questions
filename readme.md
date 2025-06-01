@@ -1,7 +1,7 @@
 # AWS Certified Cloud Practitioner–Style Exam 📚☁️
-
-[![AWS Certified Cloud Practitioner Badge](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-[![AWS Logo](https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png)](https://aws.amazon.com/)
+<p align="center">
+  <img src="https://github.com/KenanGain/50-AWS-Services/blob/main/image%20(11).jpg" alt="AWS Logo" />
+</p>
 
 ---
 
