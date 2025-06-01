@@ -1,16 +1,54 @@
-Link: https://g.co/gemini/share/625965c458d8
+# AWS Certified Cloud Practitioner–Style Exam
 
-AWS Certified Cloud Practitioner–style exam, with questions distributed by domain according to the official exam weighting:
+[![AWS Certified Cloud Practitioner Badge](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
 
-Domain 1: Cloud Concepts (17 questions, ~26%)
+<p align="center">
+  <a href="https://aws.amazon.com/">
+    <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS Logo" width="200"/>
+  </a>
+</p>
 
-Domain 2: Security and Compliance (16 questions, ~25%)
+This repository contains a **AWS Certified Cloud Practitioner–style exam** with 65 questions distributed by domain according to the official AWS exam weighting. Use this to test your knowledge and prepare for the AWS Certified Cloud Practitioner certification.
 
-Domain 3: Technology (21 questions, ~33%)
+---
 
-Domain 4: Billing and Pricing (11 questions, ~16%)
+## Exam Overview
 
-Each question is multiple-choice with four options (A–D). No answers are provided here—this is the complete question set.
+- **Total Questions**: 65  
+- **Time**: 90 minutes  
+- **Format**: Multiple choice & multiple response  
+- **Passing Score**: 700 (scale 100–1000)  
+
+---
+
+## Domain Distribution
+
+| Domain                      | Weighting | Approx. # of Questions |
+|-----------------------------|:---------:|:----------------------:|
+| Cloud Concepts              |    28%    |           18           |
+| Security and Compliance     |    24%    |           16           |
+| Technology                  |    36%    |           23           |
+| Billing and Pricing         |    12%    |            8           |
+
+> *Questions are distributed based on the official AWS Certified Cloud Practitioner exam blueprint.*
+
+---
+
+## How to Take the Test
+
+Click the link below to start the exam:
+
+🔗 [Take the AWS CCP–Style Exam](https://g.co/gemini/share/625965c458d8)
+
+---
+
+## Resources
+
+- [AWS Certified Cloud Practitioner Official Exam Guide](https://d1.awsstatic.com/training-and-certification/docs/AWS_Certified_Cloud_Practitioner_Exam_Guide.pdf)  
+- [AWS Training and Certification](https://aws.amazon.com/training/)  
+- [AWS Well-Architected Framework](https://aws.amazon.com/architecture/well-architected/)  
+
+
 
 Domain 1: Cloud Concepts (Questions 1–17)
 (Cloud Concepts)
